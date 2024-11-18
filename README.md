@@ -48,7 +48,7 @@ Ziyaretçiler:
 - Hakkımızda ve İletişim sayfalarına erişebilir.
 
 
-**Proje Yöneticisi**: Murat Yücedağ  
+**Proje Yöneticisi**: Murat Yücedağ  - 50 Derste Tatil ve Seyahat Sitesi
 **Teknoloji Kullanım Süresi**: 2023 - 2024
 ![Ekran görüntüsü 2024-11-18 230109](https://github.com/user-attachments/assets/318240cf-edc1-45d5-b8d2-3d679df8a7b7)
 ![Ekran görüntüsü 2024-11-18 230125](https://github.com/user-attachments/assets/66d7c4de-d5ea-4ca8-b619-ed85e6c0fed8)
