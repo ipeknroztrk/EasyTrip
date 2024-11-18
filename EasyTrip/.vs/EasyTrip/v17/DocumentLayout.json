@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ipekn\\source\\repos\\EasyTrip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A40306AA-52C1-4441-8DC1-F313B1660C43}|EasyTrip\\EasyTrip.csproj|c:\\users\\ipekn\\source\\repos\\easytrip\\easytrip\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A40306AA-52C1-4441-8DC1-F313B1660C43}|EasyTrip\\EasyTrip.csproj|solutionrelative:easytrip\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40306AA-52C1-4441-8DC1-F313B1660C43}|EasyTrip\\EasyTrip.csproj|c:\\users\\ipekn\\source\\repos\\easytrip\\easytrip\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A40306AA-52C1-4441-8DC1-F313B1660C43}|EasyTrip\\EasyTrip.csproj|solutionrelative:easytrip\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40306AA-52C1-4441-8DC1-F313B1660C43}|EasyTrip\\EasyTrip.csproj|c:\\users\\ipekn\\source\\repos\\easytrip\\easytrip\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A40306AA-52C1-4441-8DC1-F313B1660C43}|EasyTrip\\EasyTrip.csproj|solutionrelative:easytrip\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40306AA-52C1-4441-8DC1-F313B1660C43}|EasyTrip\\EasyTrip.csproj|c:\\users\\ipekn\\source\\repos\\easytrip\\easytrip\\views\\contact\\updatecontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A40306AA-52C1-4441-8DC1-F313B1660C43}|EasyTrip\\EasyTrip.csproj|solutionrelative:easytrip\\views\\contact\\updatecontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40306AA-52C1-4441-8DC1-F313B1660C43}|EasyTrip\\EasyTrip.csproj|c:\\users\\ipekn\\source\\repos\\easytrip\\easytrip\\views\\comment\\updatecomment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A40306AA-52C1-4441-8DC1-F313B1660C43}|EasyTrip\\EasyTrip.csproj|solutionrelative:easytrip\\views\\comment\\updatecomment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40306AA-52C1-4441-8DC1-F313B1660C43}|EasyTrip\\EasyTrip.csproj|c:\\users\\ipekn\\source\\repos\\easytrip\\easytrip\\views\\contact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A40306AA-52C1-4441-8DC1-F313B1660C43}|EasyTrip\\EasyTrip.csproj|solutionrelative:easytrip\\views\\contact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40306AA-52C1-4441-8DC1-F313B1660C43}|EasyTrip\\EasyTrip.csproj|c:\\users\\ipekn\\source\\repos\\easytrip\\easytrip\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A40306AA-52C1-4441-8DC1-F313B1660C43}|EasyTrip\\EasyTrip.csproj|solutionrelative:easytrip\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40306AA-52C1-4441-8DC1-F313B1660C43}|EasyTrip\\EasyTrip.csproj|c:\\users\\ipekn\\source\\repos\\easytrip\\easytrip\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40306AA-52C1-4441-8DC1-F313B1660C43}|EasyTrip\\EasyTrip.csproj|solutionrelative:easytrip\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40306AA-52C1-4441-8DC1-F313B1660C43}|EasyTrip\\EasyTrip.csproj|c:\\users\\ipekn\\source\\repos\\easytrip\\easytrip\\views\\contact\\contactlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A40306AA-52C1-4441-8DC1-F313B1660C43}|EasyTrip\\EasyTrip.csproj|solutionrelative:easytrip\\views\\contact\\contactlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ipekn\\source\\repos\\EasyTrip\\EasyTrip\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "EasyTrip\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ipekn\\source\\repos\\EasyTrip\\EasyTrip\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "EasyTrip\\Views\\About\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T20:03:03.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ipekn\\source\\repos\\EasyTrip\\EasyTrip\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "EasyTrip\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ipekn\\source\\repos\\EasyTrip\\EasyTrip\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "EasyTrip\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T20:00:21.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateComment.cshtml",
+              "DocumentMoniker": "C:\\Users\\ipekn\\source\\repos\\EasyTrip\\EasyTrip\\Views\\Comment\\UpdateComment.cshtml",
+              "RelativeDocumentMoniker": "EasyTrip\\Views\\Comment\\UpdateComment.cshtml",
+              "ToolTip": "C:\\Users\\ipekn\\source\\repos\\EasyTrip\\EasyTrip\\Views\\Comment\\UpdateComment.cshtml",
+              "RelativeToolTip": "EasyTrip\\Views\\Comment\\UpdateComment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T19:57:29.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ipekn\\source\\repos\\EasyTrip\\EasyTrip\\Views\\Admin\\Create.cshtml",
+              "RelativeDocumentMoniker": "EasyTrip\\Views\\Admin\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ipekn\\source\\repos\\EasyTrip\\EasyTrip\\Views\\Admin\\Create.cshtml",
+              "RelativeToolTip": "EasyTrip\\Views\\Admin\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T19:53:52.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateContact.cshtml",
+              "DocumentMoniker": "C:\\Users\\ipekn\\source\\repos\\EasyTrip\\EasyTrip\\Views\\Contact\\UpdateContact.cshtml",
+              "RelativeDocumentMoniker": "EasyTrip\\Views\\Contact\\UpdateContact.cshtml",
+              "ToolTip": "C:\\Users\\ipekn\\source\\repos\\EasyTrip\\EasyTrip\\Views\\Contact\\UpdateContact.cshtml",
+              "RelativeToolTip": "EasyTrip\\Views\\Contact\\UpdateContact.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T19:54:52.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ipekn\\source\\repos\\EasyTrip\\EasyTrip\\Views\\Contact\\Create.cshtml",
+              "RelativeDocumentMoniker": "EasyTrip\\Views\\Contact\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ipekn\\source\\repos\\EasyTrip\\EasyTrip\\Views\\Contact\\Create.cshtml",
+              "RelativeToolTip": "EasyTrip\\Views\\Contact\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T19:54:35.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ipekn\\source\\repos\\EasyTrip\\EasyTrip\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "EasyTrip\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ipekn\\source\\repos\\EasyTrip\\EasyTrip\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "EasyTrip\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T19:53:31.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContactList.cshtml",
+              "DocumentMoniker": "C:\\Users\\ipekn\\source\\repos\\EasyTrip\\EasyTrip\\Views\\Contact\\ContactList.cshtml",
+              "RelativeDocumentMoniker": "EasyTrip\\Views\\Contact\\ContactList.cshtml",
+              "ToolTip": "C:\\Users\\ipekn\\source\\repos\\EasyTrip\\EasyTrip\\Views\\Contact\\ContactList.cshtml",
+              "RelativeToolTip": "EasyTrip\\Views\\Contact\\ContactList.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T19:43:36.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\ipekn\\source\\repos\\EasyTrip\\EasyTrip\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "EasyTrip\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\ipekn\\source\\repos\\EasyTrip\\EasyTrip\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "EasyTrip\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwC0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:35:04.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

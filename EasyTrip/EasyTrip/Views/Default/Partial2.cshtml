@@ -1,0 +1,24 @@
+﻿@using EasyTrip.Models.Classes
+@model List<Blog>
+
+
+<div class="padding1">
+    <h4>En Begendiğim Yerler</h4>
+    <div class="box-left">
+        @foreach (var item in Model)
+        {
+        <div class="bot-img">
+            <img src="@item.BlogImgUrl" alt="" />
+        </div>
+        <div class="bot-desc">
+            <p>@item.Description.Substring(0,75) ...</p>
+        </div>
+        <div class="clear"></div>
+        
+        }
+    </div>
+
+
+
+   @Html.Action("Partial3","Default")
+</div>

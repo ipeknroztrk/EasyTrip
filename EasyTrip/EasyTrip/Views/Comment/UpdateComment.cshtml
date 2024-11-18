@@ -1,0 +1,35 @@
+﻿@model EasyTrip.Models.Classes.Comment
+
+@{
+    ViewBag.Title = "Yorum Düzenle";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Yorum Güncelle</h2>
+
+<div class="card">
+    <div class="card-body">
+        <form action="/Comment/UpdateComment" method="post">
+            @Html.AntiForgeryToken() <!-- CSRF koruması -->
+
+            <input type="hidden" name="CommentId" value="@Model.CommentId" />
+
+            <div class="mb-3">
+                <label for="blogTitle" class="form-label">Kullanıcı Adı</label>
+                <input type="text" class="form-control" id="blogTitle" name="Username" value="@Model.Username" required>
+            </div>
+
+            <div class="mb-3">
+                <label for="blogImageUrl" class="form-label">Mail</label>
+                <input type="text" class="form-control" id="blogImageUrl" name="Mail" value="@Model.Mail" required>
+            </div>
+
+            <div class="mb-6">
+                <label for="blogDescription" class="form-label">Yorum</label>
+                <textarea class="form-control" id="blogDescription" name="Comments" required>@Model.Comments</textarea>
+            </div>
+
+            <button type="submit" class="btn btn-success">Kaydet</button>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,50 @@
+﻿
+
+@model EasyTrip.Models.Classes.Adress
+@{
+    ViewBag.Title = "Create Blog";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Yeni İletişim Ekle</h2>
+
+<div class="card mt-4">
+    <div class="card-body">
+        <form action="/Contact/Create" method="post">
+
+            <div class="mb-3">
+                <label for="blogTitle" class="form-label">Başlık</label>
+                <input type="text" class="form-control" id="blogTitle" name="Title" placeholder="İletişim başlığı giriniz" required>
+            </div>
+
+
+            <div class="mb-3">
+                <label for="blogImageUrl" class="form-label">Açıklama</label>
+                <input type="text" class="form-control" id="blogImageUrl" name="Description" placeholder="Açıklama giriniz" required>
+            </div>
+
+
+            <div class="mb-3">
+                <label for="blogDescription" class="form-label">Adres</label>
+                <textarea class="form-control" id="blogDescription" name="Address" placeholder="Adresi giriniz"></textarea>
+            </div>
+
+            <div class="mb-3">
+                <label for="blogDescription" class="form-label">Telefon</label>
+                <textarea class="form-control" id="blogDescription" name="Telefon" placeholder="Telefonu giriniz"></textarea>
+            </div>
+            <div class="mb-3">
+                <label for="blogDescription" class="form-label">Mail</label>
+                <textarea class="form-control" id="blogDescription" name="Mail" placeholder="Mailinizi giriniz"></textarea>
+            </div>
+            <div class="mb-3">
+                <label for="blogDescription" class="form-label">Konum Url</label>
+                <textarea class="form-control" id="blogDescription" name="Location" placeholder="Konum Urlgiriniz"></textarea>
+            </div>
+
+
+
+            <button type="submit" class="btn btn-success">Kaydet</button>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,39 @@
+﻿@model EasyTrip.Models.Classes.Blog
+@{
+    ViewBag.Title = "Create Blog";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Yeni Blog Ekle</h2>
+
+<div class="card mt-4">
+    <div class="card-body">
+        <form action="/Admin/Create" method="post">
+         
+            <div class="mb-3">
+                <label for="blogTitle" class="form-label">Başlık</label>
+                <input type="text" class="form-control" id="blogTitle" name="Title" placeholder="Blog başlığı giriniz"  required>
+            </div>
+
+         
+            <div class="mb-3">
+                <label for="blogImageUrl" class="form-label">Resim URL</label>
+                <input type="text" class="form-control" id="blogImageUrl" name="BlogImgUrl" placeholder="Resim URL'sini giriniz"  required>
+            </div>
+
+         
+            <div class="mb-3">
+                <label for="blogDescription" class="form-label">Açıklama</label>
+                <textarea class="form-control" id="blogDescription" name="Description" placeholder="Blog açıklamasını giriniz"></textarea>
+            </div>
+
+          
+            <div class="mb-3">
+                <label for="blogDate" class="form-label">Tarih</label>
+                <input type="date" class="form-control" id="blogDate" name="Date" value="@Model?.Date.ToString(" yyyy-MM-dd")" required>
+            </div>
+
+            <button type="submit" class="btn btn-success">Kaydet</button>
+        </form>
+    </div>
+</div>

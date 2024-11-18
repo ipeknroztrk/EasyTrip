@@ -1,0 +1,38 @@
+﻿@model EasyTrip.Models.Classes.Blog
+
+@{
+    ViewBag.Title = "Blog Düzenle";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<h2>Blog Güncelle</h2>
+
+<div class="card">
+    <div class="card-body">
+        <form action="/Admin/Edit" method="post">
+            @Html.AntiForgeryToken()
+
+           
+            <input type="hidden" name="BlogId" value="@Model.BlogId" />
+
+            <div class="mb-3">
+                <label for="blogTitle" class="form-label">Başlık</label>
+                <input type="text" class="form-control" id="blogTitle" name="Title" value="@Model.Title" required>
+            </div>
+            <div class="mb-3">
+                <label for="blogImageUrl" class="form-label">Resim URL</label>
+                <input type="text" class="form-control" id="blogImageUrl" name="BlogImgUrl" value="@Model.BlogImgUrl" required>
+            </div>
+            <div class="mb-6">
+                <label for="blogDescription" class="form-label">Açıklama</label>
+                <textarea class="form-control" id="blogDescription" name="Description" required>@Model.Description</textarea>
+            </div>
+            <div class="mb-3">
+                <label for="blogDate" class="form-label">Tarih</label>
+                <input type="date" class="form-control" id="blogDate" name="Date" value="@Model.Date.ToString("yyyy-MM-dd")" required>
+            </div>
+            <button type="submit" class="btn btn-success">Kaydet</button>
+        </form>
+    </div>
+</div>

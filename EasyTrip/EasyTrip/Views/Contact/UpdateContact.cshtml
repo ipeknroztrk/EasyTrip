@@ -1,0 +1,51 @@
+﻿
+@using EasyTrip.Models.Classes
+@model EasyTrip.Models.Classes.Adress
+
+@{
+    ViewBag.Title = "Yorum Düzenle";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>İletişim Güncelle</h2>
+
+<div class="card">
+    <div class="card-body">
+        <form action="/Contact/UpdateContact" method="post">
+            @Html.AntiForgeryToken()
+
+            <input type="hidden" name="AdressId" value="@Model.AdressId" />
+
+            <div class="mb-3">
+                <label for="blogTitle" class="form-label">Başlık</label>
+                <input type="text" class="form-control" id="blogTitle" name="Title" value="@Model.Title" required>
+            </div>
+
+            <div class="mb-3">
+                <label for="blogImageUrl" class="form-label">Açıklama</label>
+                <input type="text" class="form-control" id="blogImageUrl" name="Description" value="@Model.Description" required>
+            </div>
+
+            <div class="mb-6">
+                <label for="blogDescription" class="form-label">Adres</label>
+                <textarea class="form-control" id="blogDescription" name="Address" required>@Model.Address</textarea>
+            </div>
+            <div class="mb-6">
+                <label for="blogDescription" class="form-label">Telefon</label>
+                <textarea class="form-control" id="blogDescription" name="Telefon" required>@Model.Telefon</textarea>
+            </div>
+            <div class="mb-6">
+                <label for="blogDescription" class="form-label">Mail</label>
+                <textarea class="form-control" id="blogDescription" name="Mail" required>@Model.Mail</textarea>
+                <div class="mb-6">
+                    <label for="blogDescription" class="form-label">Konum Url</label>
+                    <textarea class="form-control" id="blogDescription" name="Location" required>@Model.Location</textarea>
+                </div>
+            </div>
+
+            <button type="submit" class="btn btn-success">Kaydet</button>
+        </form>
+    </div>
+</div>
+
+
